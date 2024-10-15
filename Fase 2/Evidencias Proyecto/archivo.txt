@@ -1,5 +1,4 @@
 archivos
-***2.4_GuiaEstudiante_Fase2_DesarrolloProyecto APT(Español).docx
-***PLANILLA DE EVALUACIÓN AVANCE FASE 2.xlsx
-***2.6_GuiaEstudiante_Fase2_Informe Final Proyecto APT(Español).docx
-***PLANILLA DE EVALUACIÓN FINAL FASE 2.xlsx
+***Presentación Proyecto
+***Evidencias de documentación
+***Evidencias de sistema Aplicación - Base de datos
